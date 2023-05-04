@@ -2,7 +2,7 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section&text=NiniJini-GitHub&animation=fadeIn)
  
-<br><Br>
+
  <hr>
  
  <h1>👋 Hi, I’m nini jini 😉😉😉</h1>
@@ -14,7 +14,6 @@
 -  🌱 I'm studying developers 🌱
   <br>
 
- <br>
 
  <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>  <br>
  🌼https://blog.naver.com/gch00335 🌼
@@ -26,7 +25,7 @@
 <hr>
 <!---
 gch00335/gch00335 is a ✨ special ✨ repository .
---->
+---><br>
  <h2>⚡About NiniJini's GitHub ⚡ </h2>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gch00335) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gch00335&count_private=true)
