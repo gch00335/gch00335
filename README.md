@@ -12,6 +12,10 @@
   <br>
  💞️ Will you be my friend?
  <br>
+ <a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>  🌼https://blog.naver.com/gch00335 🌼
+
+
+
 📫 Please come and watch my <strong> YouTube </strong>  📫
 <br> =>   https://www.youtube.com/channel/UC4r9iltdw4htnnSrt4U49tA
 
