@@ -2,6 +2,8 @@
 
  ![header](https://capsule-render.vercel.app/api?text=NiniJini-GitHub&animation=fadeIn)
 
+<br><Br><br>
+ 
  <h1>👋 Hi, I’m nini jini 😉😉😉</h1>
 
  <br> 
@@ -31,6 +33,6 @@ gch00335/gch00335 is a ✨ special ✨ repository .
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gch00335&count_private=true)
 
-
+<hr>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/AWS-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
