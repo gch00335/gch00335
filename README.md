@@ -1,15 +1,17 @@
 
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=니니찌니%20깃허브&fontSize=90" />
+ 
  <h1>👋 Hi, I’m nini jini 😉😉😉</h1>
+
  <br> 
 
-👀 I like to exercise and travel
+👀 I like to exercise and travel 👀
   <br>
- 🌱 I'm studying developers
+ 🌱 I'm studying developers 🌱
   <br>
  💞️ Will you be my friend?
  <br>
-📫 Please come and watch my <strong> YouTube </strong> 
+📫 Please come and watch my <strong> YouTube </strong>  📫
 <br> =>   https://www.youtube.com/channel/UC4r9iltdw4htnnSrt4U49tA
 
 
