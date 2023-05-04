@@ -1,6 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=니니찌니%20깃허브&fontSize=90" />
- 
+
+ ![header](https://capsule-render.vercel.app/api?text=NiniJini-GitHub&animation=fadeIn)
+
  <h1>👋 Hi, I’m nini jini 😉😉😉</h1>
 
  <br> 
